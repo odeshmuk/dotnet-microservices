@@ -27,8 +27,8 @@ x86/
 [Aa][Rr][Mm]/
 [Aa][Rr][Mm]64/
 bld/
-[Bb]in/
-[Oo]bj/
+bin/
+obj/
 [Ll]og/
 [Ll]ogs/
 
@@ -386,3 +386,6 @@ FodyWeavers.xsd
 # JetBrains Rider
 .idea/
 *.sln.iml
+PlatformService/obj/Debug/net5.0/PlatformService.csproj.FileListAbsolute.txt
+PlatformService/obj/Debug/net5.0/PlatformService.csproj.FileListAbsolute.txt
+*.txt
